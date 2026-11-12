@@ -4,7 +4,7 @@
 
 Bienvenue sur ma page github !
 
-Mes projets phare sont :
+Mes projets phares sont :
 
 ![Cardea](https://github.com/L-Jules/Cardea) : un projet de scanneur NFC-V pour une bibliothèque, l'application permet de faire un inventaire en cumulant les scans !
 
