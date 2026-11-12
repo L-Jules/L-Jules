@@ -1,25 +1,7 @@
-<!--
-**Jules-Latapy/Jules-Latapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="./banniere2.png" style="border-radius: 99px;">
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jules-Latapy&include_all_commits=true&count_private=true&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FFFFFF&bg_color=0D1117&border_radius=20%&border_color=0D1117">
+Bienvenue sur ma page github !
 
-----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-Latapy&hide=HTML&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FFFFFF&bg_color=0D1117&border_radius=20%&border_color=0D1117&layout=compact">
-  
 <!--![counter](https://enkdspcjlqmnsoy.m.pipedream.net)-->
