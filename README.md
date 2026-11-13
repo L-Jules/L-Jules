@@ -1,4 +1,4 @@
-<img src="./banniere2.png" style="border-radius: 99px;">
+<img src="./banniere.png">
 
 </br>
 
